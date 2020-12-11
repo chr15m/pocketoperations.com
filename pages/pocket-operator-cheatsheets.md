@@ -2,7 +2,13 @@
 
 This PO-33 cheatsheet is by [/u/alexwasashrimp](https://reddit.com/u/alexwasashrimp) and [the site also lists some other resources](https://alexwasashrimp.space/index.php/2020/10/20/po-33-cheat-sheet-and-resources/).
 
-![PO-33 cheatsheet by alexwasashrimp](img/po-33-725x1024.png)
+![PO-33 cheatsheet by alexwasashrimp](img/content/po-33-725x1024.png)
+
+## PO-14 sub cheatsheet
+
+This [PO-14 sub cheatsheet by The Introvert](https://theintrovert.net/2015/03/28/pocket-operator-cheat-sheet/) covers the basics and the most easy-to-forget stuff.
+
+![PO-14 sub cheatsheet](img/content/po-14-cheat-sheet.jpg)
 
 ## Drawing of available scales on the PO-33
 

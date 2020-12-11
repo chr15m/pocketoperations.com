@@ -4,6 +4,7 @@ t = m.dom(m.read("index.html"));
 
 m.dir("pages").forEach(function(pagefile) {
   const page = m.read("pages/" + pagefile);
+  const body = m.$(t.doc, "body");
   const main = m.$(t.doc, "main");
   const title = pagefile.replace(/\-/g, " ").replace(".md", "");
   const $ = m.$.bind(m, t.doc);
@@ -11,7 +12,7 @@ m.dir("pages").forEach(function(pagefile) {
 
   $("title").textContent = title;
   $("h1").textContent = title;
-  main.className = "page";
+  body.className = "page";
   main.innerHTML = m.md(page);
   // build the table of contents
   const toc = t.h("ul", {"className": "toc"},
@@ -22,6 +23,8 @@ m.dir("pages").forEach(function(pagefile) {
   $$("h2").forEach(h2=>{
     h2.appendChild(t.h("a", {"className": "pilcrow", "name": m.slug(h2.textContent)}, " "));
   });
+  // TODO: extract first image for socials
+
   // write it back to the html file
   m.write(pagefile.replace(".md", ".html"), t.serialize());
 });

@@ -1,57 +1,52 @@
-## [Case mega-thread on Reddit](https://www.reddit.com/r/pocketoperators/comments/6l3utu/always_use_protection_case_megathread/)
+## Dich Studios
 
-## Dich Studios Pocket Operator cases
+[Dich Studios pocket acrylic operator cases](https://dichstudios.com/collections/po-gear) are widely recommended amongst the pocket operator community. They also sell versions which can house 2 or 3 pocket operators at once, and a bunch of other bits of hardware.
 
+![Dich Studios pocket operator case](img/content/dich.jpg)
 
+## Beat Maker's Boutique
 
-[](https://dichstudios.com/collections/po-gear)
+[Beat Maker's Boutique](https://www.beatmakersboutique.com/collections/specialty-items) periodically release new custom cases which always get snapped up fast.
 
+![Beat Maker's Boutique's MPO XS case](img/content/dich-studios-MPO-XS-pocket-operator-case.jpg)
 
+## Official cases
 
+Teenage Engineering sell their [own line of pocket operator cases](https://teenage.engineering/store/ca-x/) that you can buy on their website.
 
-Beat Maker's Boutique cases
+![Teenage Engineering silicon pocket operator case](img/content/teenage-engineering-pocket-operator-silicon-case.png)
 
- * https://www.beatmakersboutique.com/collections/specialty-items
+## Perkflood clear
 
-@DichStudios cases
+You can [buy this nice clear case from perkflood on Etsy](https://www.etsy.com/listing/838306062/pocket-operator-case-clear).
 
- * https://dichstudios.com/
+![clear case](img/content/pocket-operator-clear-case.jpg)
 
+## 3D printed Arctic
 
+You can [buy the STL file to print this really nice looking case from Arctic3Design on Etsy](https://www.etsy.com/listing/809218210/arctic-pocket-operator-case-digital-file).
 
+![Arctic PO case](img/content/arctic-pocket-operator-case.jpg)
 
+## 3D printed travel container
 
+This hard travel case by Salvation76 will protect your pocket operator while traveling and you can get the [STL file here](https://www.thingiverse.com/thing:1595179) to 3d print your own.
 
-3D printed smooth round case
+![pocket operator 3d printed travel case](img/content/pocket-operator-travel-case.png)
 
- * https://www.reddit.com/r/pocketoperators/comments/gwqyfx/3d_printed_case/
- * 
- * https://www.thingiverse.com/thing:1375818
+## 3D printed snap together
 
-3d printable Pocket Operator Hard case - travel case
+This [snap together case is designed by /u/Miami199](https://www.reddit.com/r/pocketoperators/comments/gsak7l/snap_together_3d_printable_case_link_to_files_in/) and you can get the [STL files to print your own on Thingiverse](https://www.reddit.com/r/pocketoperators/comments/gsak7l/snap_together_3d_printable_case_link_to_files_in/).
 
- * https://www.thingiverse.com/thing:1595179
+![3d printed snap together case](img/content/pocket-operator-3d-printed-snap-together-case.jpg)
 
-Minimalist snap together
+## 3D printed round
 
- * https://www.reddit.com/r/pocketoperators/comments/gsak7l/snap_together_3d_printable_case_link_to_files_in/
- * https://www.thingiverse.com/thing:4405034
-PRO stand
+This [case from /u/tobocirej is a 3d printed round rough case](https://www.reddit.com/r/pocketoperators/comments/gwqyfx/3d_printed_case/). You can get the [STL file to print your own from Thingiverse](https://www.thingiverse.com/thing:1375818).
 
-Cool big stand
+![3d printed round case](img/content/3d-printed-rough-case.jpg)
 
- * https://www.etsy.com/listing/727586264/pocket-operator-stand-pro
+## Case mega-thread on Reddit
 
-Wooden Stand
-
- * https://www.etsy.com/au/shop/Arctic3Design?ref=l2-about-shopname
-
-Cool case
-
- * https://www.etsy.com/au/listing/838306062/pocket-operator-case-clear?ref=internal_similar_listing_bot-3
-
-Arctic case (file only)
-
- * https://www.etsy.com/au/listing/809218210/arctic-pocket-operator-case-digital-file
-
+There's also a [pocket operator case mega-thread on Reddit](https://www.reddit.com/r/pocketoperators/comments/6l3utu/always_use_protection_case_megathread/) with a bunch of different options.
  

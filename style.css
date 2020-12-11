@@ -4,6 +4,7 @@ body {
 
 * {
   font-family: Arial;
+  line-height: 1.5em;
 }
 
 h1 {
@@ -17,14 +18,13 @@ h1 {
 p a, ul a, footer a {
   background-color: yellow;
   color: black;
-  padding: 0.25em;
+  padding: 0.25em 0.125em;
   text-decoration: none;
 }
 
 ul > li {
   margin: 1em;
   font-size: 1.5em;
-  line-height: 1.5em;
 }
 
 header {
@@ -83,6 +83,10 @@ h2 .pilcrow {
   color: yellow;
   padding: 0.5em;
   margin-top: 5em;
+}
+
+.page h1 {
+  font-size: revert;
 }
 
 .page h2 > a {
