@@ -105,3 +105,8 @@ footer {
   margin-top: 5em;
   margin-bottom: 3em;
 }
+
+img.button {
+  width: 250px;
+  border: none;
+}
