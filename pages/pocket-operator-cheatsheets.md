@@ -2,31 +2,37 @@
 
 This PO-33 cheatsheet is by [/u/alexwasashrimp](https://reddit.com/u/alexwasashrimp) and [the site also lists some other resources](https://alexwasashrimp.space/index.php/2020/10/20/po-33-cheat-sheet-and-resources/).
 
-![PO-33 cheatsheet by alexwasashrimp](img/content/po-33-725x1024.png)
+[![PO-33 cheatsheet by alexwasashrimp](img/content/po-33-725x1024.png)](img/content/po-33-725x1024.png)
 
-## PO-14 sub cheatsheet
+## PO-14 Sub cheatsheet
 
-This [PO-14 sub cheatsheet by The Introvert](https://theintrovert.net/2015/03/28/pocket-operator-cheat-sheet/) covers the basics and the most easy-to-forget stuff.
+This [PO-14 Sub cheatsheet by The Introvert](https://theintrovert.net/2015/03/28/pocket-operator-cheat-sheet/) covers the basics and the most easy-to-forget stuff.
 
-![PO-14 sub cheatsheet](img/content/po-14-cheat-sheet.jpg)
+[![PO-14 sub cheatsheet](img/content/po-14-cheat-sheet.jpg)](img/content/po-14-cheat-sheet.jpg)
 
-## Drawing of available scales on the PO-33
+## PO-20 chords & keys cheatsheet
+
+This [PO-20 Arcade cheatsheet by /u/1000friends](https://www.reddit.com/r/pocketoperators/comments/j7q7fx/updated_po20_chords_keys/) shows you how to make the different chords in the different keys on your PO-20.
+
+[![PO-20 Arcade chords and keys cheatsheet](img/content/po-20-cheatsheet-chords-keys.jpg)](img/content/po-20-cheatsheet-chords-keys.jpg)
+
+## PO-33 scales diagram
 
 This is a drawing of the available [scales on the PO-33 from a Reddit post](https://www.reddit.com/r/pocketoperators/comments/9v38e8/a_diagram_of_available_scales_on_the_po33_ko_and/).
 
-![Hello](img/oSPsQ2T.jpeg)
+[![PO-33 scales diagram](img/content/po-33-scales-drawing.jpg)](img/content/po-33-scales-drawing.jpg)
 
 ## A4 Printable guides
 
-Reddit user [/u/alexjean](https://reddit.com/u/alexjean) has made these [handy A4 printable guides to using pocket operators](https://www.reddit.com/r/pocketoperators/comments/k9muli/po33_printerfriendly_collected_user_guides_10page/).
+Reddit user [/u/alexjean has made these handy A4 printable guides](https://www.reddit.com/r/pocketoperators/comments/k9muli/po33_printerfriendly_collected_user_guides_10page/) to using pocket operators and you can get [the PDF of the A4 guides directly here](https://www.dropbox.com/s/zmkqu2yyyzoljux/teenage_engineering_PO-33_collected_guides_2020.pdf).
 
-![A4 printable guides](https://preview.redd.it/x2om79j214461.png?width=2134&format=png&auto=webp&s=1896b094ff3bed50e85f6a11ffbd8b508be299f4)
+[![A4 printable guides](img/content/pocket-operator-a4-printable-guides.png)](https://www.dropbox.com/s/zmkqu2yyyzoljux/teenage_engineering_PO-33_collected_guides_2020.pdf)
 
 ## Button cheat sheet spreadsheet
 
 This is [a spreadsheet containing every pocket operator and all of their button combinations](https://docs.google.com/spreadsheets/d/13T3AdhtiYx6TmdW71KpoU7DN1YiaeeJwFbNhjGlpT30/htmlview#).
 
-![Thumbnail of a spreadsheet containing every pocket operator button combination](img/content/spreadsheet-button-cheatsheet.png)
+[![Thumbnail of a spreadsheet containing every pocket operator button combination](img/content/spreadsheet-button-cheatsheet.png)](https://docs.google.com/spreadsheets/d/13T3AdhtiYx6TmdW71KpoU7DN1YiaeeJwFbNhjGlpT30/htmlview)
 
 ## Official guides
 
