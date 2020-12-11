@@ -89,6 +89,12 @@ h2 .pilcrow {
   font-size: revert;
 }
 
+@media (max-width: 600px) {
+  .page h1 {
+    font-size: 1.25em;
+  }
+}
+
 .page h2 > a {
 
 }
