@@ -1,0 +1,96 @@
+body {
+  background-image: url("img/po-bg.png");
+}
+
+* {
+  font-family: Arial;
+}
+
+h1 {
+  font-weight: bold;
+  margin: 0px;
+  text-align: justify;
+  text-transform: uppercase;
+  color: #444;
+}
+
+p a, ul a, footer a {
+  background-color: yellow;
+  color: black;
+  padding: 0.25em;
+  text-decoration: none;
+}
+
+ul > li {
+  margin: 1em;
+  font-size: 1.5em;
+  line-height: 1.5em;
+}
+
+header {
+}
+
+header a {
+  background-color: transparent;
+}
+
+@media (max-width: 600px) {
+  body {
+    font-size: 0.75em;
+  }
+}
+
+main img {
+  max-width: 100%;
+  margin: 3em auto;
+  display: block;
+  border: 1px solid silver;
+}
+
+header h1 {
+  padding-left: 0.75vw;
+  color: #666;
+  font-size: 1em;
+}
+
+main {
+  max-width: 800px;
+  width: 100%;
+  margin: 1em auto;
+  letter-spacing: 0.05em;
+}
+
+h2 {
+  color: #333;
+  background-color: yellow;
+  padding-left: 0.125em;
+}
+
+h2 > a {
+  font-size: 2em;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #333;
+}
+
+h2 .pilcrow {
+  font-size: 0.1em;
+}
+
+.page h2 {
+  text-transform: uppercase;
+  background-color: #666;
+  color: yellow;
+  padding: 0.5em;
+  margin-top: 5em;
+}
+
+.page h2 > a {
+
+}
+
+footer {
+  text-align: center;
+  color: #888;
+  margin-top: 5em;
+}
