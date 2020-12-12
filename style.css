@@ -47,6 +47,12 @@ main img {
   border: 1px solid silver;
 }
 
+main img#po {
+  width: 100%;
+  max-width: 200px;
+  border: 0px;
+}
+
 main audio {
   width: 100%;
 }
