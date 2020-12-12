@@ -1,0 +1,2 @@
+static: /
+release: make
