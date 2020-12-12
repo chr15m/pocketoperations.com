@@ -47,6 +47,10 @@ main img {
   border: 1px solid silver;
 }
 
+main audio {
+  width: 100%;
+}
+
 header h1 {
   padding-left: 0.75vw;
   color: #666;

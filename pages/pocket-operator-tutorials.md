@@ -9,3 +9,7 @@ You can find Callum Howkin's [excellent PO-33 guide online here](https://medium.
 Teenage Engineering have their own set of [online lessons for the pocket operator series](https://teenage.engineering/ems#lessons).
 
 [![Pocket Operator lessons and tutorials](img/content/po-online-lessons.png)](https://teenage.engineering/ems#lessons)
+
+## Pocket Operator drum patterns
+
+Paul from [shittyrecording.studio is selling a book full of drum machine patterns for pocket operators](https://shittyrecording.studio/).

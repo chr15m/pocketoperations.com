@@ -1,28 +1,37 @@
-### Sample packs & patches
+## TE
 
-https://www.reddit.com/r/PocketOperatorPatches/
+Teenage Engineering have sample/synth patches for the [PO-33](https://teenage.engineering/downloads/po-33) and [PO-32](https://teenage.engineering/downloads/po-32).
 
-### TE
+## TE PO-33 Frekvens
 
- * https://teenage.engineering/downloads/po-33
- * https://teenage.engineering/downloads/po-32
+Tobias Von Hofsten's Frekvens. You need to put your PO into receive mode to load this.
 
-### Cuckoo:
+<audio src="https://teenage.engineering/_img/5e454633fda17e000475bb1c_original.wav" controls></audio>
 
- * https://gumroad.com/cuckoo?sort=newest#xslvS
+## TE PO-32 Basic Beats
 
-### Punky V
+Tobias Von Hofsten's Basic Beats #1. You need to put your PO into receive mode to load this.
 
- * https://punkyv4n.me/po-33-sample-packs
- * https://punkyv4n.me/po-33-drum-kits
- * https://punkyv4n.me/po-33-scale-app/
+<audio src="https://teenage.engineering/_img/5e7b3be8c8229c0004138e68_original.wav" controls></audio>
 
-### Drum patterns
+Tobias Von Hofsten's Basic Beats #2. You need to put your PO into receive mode to load this.
 
- * Book: https://shittyrecording.studio/
- * Blog: 
+<audio src="https://teenage.engineering/_img/5e7b3e15c8229c0004138e6f_original.wav" controls></audio>
 
-### More samples
+## Cuckoo's PO-33 Mega Knockout retro pack
 
- * https://www.youtube.com/playlist?list=PLy4aX2KgO-KJtastnQmTuhZg-VlocWWHN
+Cuckoo has a [PO-33 retro samples pack you can buy](https://gumroad.com/cuckoo?sort=newest#xslvS).
+
+## Punky V's PO-33 packs
+
+ * [Punky V's sample packs YouTube playlist](https://punkyv4n.me/po-33-sample-packs)
+ * [Punky V's drum kits YouTube playlist](https://punkyv4n.me/po-33-drum-kits)
+
+## PO-33 Mega playlist of sample packs
+
+This [mega playlist on YouTube has a ton of different PO-33 sample packs](https://www.youtube.com/playlist?list=PLy4aX2KgO-KJtastnQmTuhZg-VlocWWHN).
+
+## Dedicated patch forum
+
+Check out [/r/PocketOperatorPatches/](https://www.reddit.com/r/PocketOperatorPatches/) which is a forum specifically dedicated to sharing patches and sample packs.
 
