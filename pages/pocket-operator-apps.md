@@ -36,13 +36,13 @@ This [sample loader web app for the PO-33](https://rileyjshaw.com/po-33/) plays 
 
 ## Web app: PO-33 scale app
 
-Find punkyvan's [PO-33 scale app](https://punkyv4n.me/po-33-scale-app/).
+Punkyvan's [PO-33 scale app](https://punkyv4n.me/po-33-scale-app/) helps you figure out how to transpose samples into the key you want.
 
 [![PO-33 scale webapp](img/content/po-33-scale-webapp.png)](https://punkyv4n.me/po-33-scale-app/)
 
 ## Web app: Patch sharing app
 
-[https://pocket.band/](https://pocket.band/) is a site for sharing pocket operator backups (sample patches).
+[pocket.band](https://pocket.band/) is a site for sharing pocket operator backups (sample patches).
 
 [![backups share web app](img/content/po-33-backups-share-webapp.png)](https://pocket.band/)
 
