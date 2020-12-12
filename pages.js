@@ -1,34 +1,36 @@
 m = require('motionless');
 
-t = m.dom(m.read("index.html"));
+t = m.dom(m.load("index.html"));
 
 m.dir("pages").forEach(function(pagefile) {
-  const page = m.read("pages/" + pagefile);
-  const body = m.$(t.doc, "body");
-  const main = m.$(t.doc, "main");
+  const page = m.load("pages/" + pagefile);
+  const body = t.$("body");
+  const main = t.$("main");
   const title = pagefile.replace(/\-/g, " ").replace(".md", "");
-  const $ = m.$.bind(m, t.doc);
-  const $$ = m.$$.bind(m, t.doc);
 
-  $("title").textContent = title;
-  $("h1").textContent = title;
+  t.$("title").textContent = title;
+  t.$("h1").textContent = title;
   body.className = "page";
   main.innerHTML = m.md(page);
   // build the table of contents
-  const headers = $$("h2");
+  // get a list of the h2 headers in the page
+  const headers = t.$$("h2");
   if (headers.length) {
-    const toc = t.h("ul", {"className": "toc"},
-        $$("h2").map(h2=>t.h("li", {}, t.h("a", {"href": "#" + m.slug(h2.textContent)}, h2.textContent))));
-    $("main").insertBefore(toc, $("h2"));
-    $("main").insertBefore(t.h("h2", {}, "Contents"), toc);
-
-    // decorate every h2 with an internal link
-    $$("h2").forEach(h2=>{
-      h2.appendChild(t.h("a", {"className": "pilcrow", "name": m.slug(h2.textContent)}, " "));
+    // build a list of <ul> tags with an <a> link for every header
+    const items = headers.map((h2)=>{
+      // add a named href the TOC can link to
+      h2.appendChild(t.h("a", {"className": "pilcrow", "name": m.slug(h2.textContent)}, " "))
+      // create the TOC <li> link tag
+      return t.h("li", {}, t.h("a", {"href": "#" + m.slug(h2.textContent)}, h2.textContent));
     });
+    // create the top level <ul> tag containing the items
+    const toc = t.h("ul", {"className": "toc"}, items);
+    // prepend the table of contents inside the <main> tag
+    t.$("main").prepend(toc);
+    t.$("main").prepend(t.h("h2", {}, "Contents"));
   }
   // TODO: extract first image for socials
 
   // write it back to the html file
-  m.write(pagefile.replace(".md", ".html"), t.serialize());
+  m.save(pagefile.replace(".md", ".html"), t.render());
 });
