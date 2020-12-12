@@ -29,8 +29,6 @@ m.dir("pages").forEach(function(pagefile) {
     t.$("main").prepend(toc);
     t.$("main").prepend(t.h("h2", {}, "Contents"));
   }
-  // TODO: extract first image for socials
-
   // write it back to the html file
   m.save(pagefile.replace(".md", ".html"), t.render());
 });
