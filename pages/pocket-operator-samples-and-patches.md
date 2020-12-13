@@ -27,6 +27,10 @@ Cuckoo has a [PO-33 retro samples pack you can buy](https://gumroad.com/cuckoo?s
  * [Punky V's sample packs YouTube playlist](https://punkyv4n.me/po-33-sample-packs)
  * [Punky V's drum kits YouTube playlist](https://punkyv4n.me/po-33-drum-kits)
 
+## Notion samples database
+
+This [notion from /u/heroheman has patches for PO-33 and PO-32 and a ton of other stuff](https://www.notion.so/PO-Sample-Collection-d273b33807824fc191b076ce657ff9e1).
+
 ## PO-33 Mega playlist of sample packs
 
 This [mega playlist on YouTube has a ton of different PO-33 sample packs](https://www.youtube.com/playlist?list=PLy4aX2KgO-KJtastnQmTuhZg-VlocWWHN).
