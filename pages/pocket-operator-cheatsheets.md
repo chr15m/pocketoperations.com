@@ -16,6 +16,10 @@ This [PO-20 Arcade cheatsheet by /u/1000friends](https://www.reddit.com/r/pocket
 
 [![PO-20 Arcade chords and keys cheatsheet](img/content/po-20-cheatsheet-chords-keys.jpg)](img/content/po-20-cheatsheet-chords-keys.jpg)
 
+## PO-20 scale guide
+
+This [scale guide by /u/TheBanjoPrince can help you figure out scales on the PO-20](https://www.reddit.com/r/pocketoperators/comments/8ctdzv/po20_scale_guide/)
+
 ## PO-33 scales diagram
 
 This is a drawing of the available [scales on the PO-33 from a Reddit post](https://www.reddit.com/r/pocketoperators/comments/9v38e8/a_diagram_of_available_scales_on_the_po33_ko_and/).
