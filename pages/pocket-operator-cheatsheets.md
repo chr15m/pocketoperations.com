@@ -26,11 +26,11 @@ This is a drawing of the available [scales on the PO-33 from a Reddit post](http
 
 [![PO-33 scales diagram](img/content/po-33-scales-drawing.jpg)](img/content/po-33-scales-drawing.jpg)
 
-## A4 Printable guides
+## A4 Printable PO-33 guides
 
-Reddit user [/u/alexjean has made these handy A4 printable guides](https://www.reddit.com/r/pocketoperators/comments/k9muli/po33_printerfriendly_collected_user_guides_10page/) to using pocket operators and you can get [the PDF of the A4 guides directly here](https://www.dropbox.com/s/zmkqu2yyyzoljux/teenage_engineering_PO-33_collected_guides_2020.pdf).
+Reddit user [/u/alexjean has made these handy A4 printable guides for the PO-33](https://www.reddit.com/r/pocketoperators/comments/k9muli/po33_printerfriendly_collected_user_guides_10page/) and you can get [the PDF of the A4 guides directly here](https://www.dropbox.com/s/zmkqu2yyyzoljux/teenage_engineering_PO-33_collected_guides_2020.pdf).
 
-[![A4 printable guides](img/content/pocket-operator-a4-printable-guides.png)](https://www.dropbox.com/s/zmkqu2yyyzoljux/teenage_engineering_PO-33_collected_guides_2020.pdf)
+[![A4 printable PO-33 guides](img/content/pocket-operator-a4-printable-guides.png)](https://www.dropbox.com/s/zmkqu2yyyzoljux/teenage_engineering_PO-33_collected_guides_2020.pdf)
 
 ## Button cheat sheet spreadsheet
 
