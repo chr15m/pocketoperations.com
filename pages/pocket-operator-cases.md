@@ -18,7 +18,7 @@ Teenage Engineering sell their [own line of pocket operator cases](https://teena
 
 ## Spillerphoto cases
 
-Over at [spillerphoto.com](https://spillerphoto.com/) they are selling a [bunch of different 3D printed cases for pocket operators](https://spillerphoto.com/product-category/te_pocket_operators/).
+Over at [spillerphoto.com](https://spillerphoto.com/) they are selling a [bunch of different 3D printed cases for pocket operators](https://spillerphoto.com/product-category/te_pocket_operators/) referencing a vintage synth/drum machine style with a choice of hard or soft buttons and colors.
 
 [![Spiller POC60 case](img/content/spiller-case.jpg)](https://spillerphoto.com/product-category/te_pocket_operators/)
 
