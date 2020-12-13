@@ -16,6 +16,12 @@ Teenage Engineering sell their [own line of pocket operator cases](https://teena
 
 [![Teenage Engineering silicon pocket operator case](img/content/teenage-engineering-pocket-operator-silicon-case.png)](https://teenage.engineering/store/ca-x/)
 
+## Spillerphoto cases
+
+Over at [spillerphoto.com](https://spillerphoto.com/) they are selling a [bunch of different 3D printed cases for pocket operators](https://spillerphoto.com/product-category/te_pocket_operators/).
+
+[![Spiller POC60 case](img/content/spiller-case.jpg)](https://spillerphoto.com/product-category/te_pocket_operators/)
+
 ## Perkflood clear
 
 You can [buy this nice clear case from perkflood on Etsy](https://www.etsy.com/listing/838306062/pocket-operator-case-clear).
