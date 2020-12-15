@@ -1,0 +1,3 @@
+# Pocket Operator fan site
+
+This is the source code for pocketoperations.com a Pocket Operators fansite with [cases](https://pocketoperations.com/pocket-operator-cases.html), [cheatsheets](https://pocketoperations.com/pocket-operator-cheatsheets.html), [apps](https://pocketoperations.com/pocket-operator-apps.html), [FAQs](https://pocketoperations.com/pocket-operator-faqs.html), [samples & patches](https://pocketoperations.com/pocket-operator-samples-and-patches.html), and [tutorials](https://pocketoperations.com/pocket-operator-tutorials.html) etc. etc. all about the humble Pocket Operator from Teenage Engineering.
