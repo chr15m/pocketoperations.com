@@ -27,9 +27,11 @@ m.dir("pages").forEach(function(pagefile) {
     });
     // create the top level <ul> tag containing the items
     const toc = t.h("ul", {"className": "toc"}, items);
+    // grab the first p element which is a description of what's on the page
+    const p = t.$("p");
     // prepend the table of contents inside the <main> tag
-    t.$("main").prepend(toc);
-    t.$("main").prepend(t.h("h2", {}, "Contents"));
+    p.after(toc);
+    p.after(t.h("h2", {}, "Contents"));
   }
   // write it back to the html file
   m.save(pagefile.replace(".md", ".html"), t.render());
