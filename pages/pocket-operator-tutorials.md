@@ -1,3 +1,5 @@
+If you want to learn how to use your pocket operator more effectively these are some tutorials, lessons, and other educational resources that can help you bone up.
+
 ## Callum Howkin's Complete PO-33 K.O Guide
 
 You can find Callum Howkin's [excellent PO-33 guide online here](https://medium.com/callumhowkins/the-complete-teenage-engineering-po33-k-o-guide-89d5e2fd6a2a).

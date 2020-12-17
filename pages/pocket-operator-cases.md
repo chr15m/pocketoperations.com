@@ -1,3 +1,5 @@
+Pocket operators are the most portable music devices out there and so it's only natural that they get banged around a bit. If you want to protect your pocket operator from wear and tear there are a ton of options. This list is hand-selected from those that show up on the forums most frequently.
+
 ## Dich Studios
 
 [Dich Studios pocket acrylic operator cases](https://dichstudios.com/collections/po-gear) are widely recommended amongst the pocket operator community. They also sell versions which can house 2 or 3 pocket operators at once, and a bunch of other bits of hardware.

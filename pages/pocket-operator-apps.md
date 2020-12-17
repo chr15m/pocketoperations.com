@@ -1,8 +1,8 @@
-If you're looking for apps that play nicely with Pocket Operator devices you've come to the right place. This is a small but growing collection of apps that specifically support the PO sync or data transfer protocols. This means these apps are designed to work directly with Pocket Operators and can do stuff like play music in time, or transfer patches to and from the PO-33 or PO-32 devices.
+If you're looking for apps that play nicely with pocket operator devices you've come to the right place. This is a small but growing collection of apps that specifically support the PO sync or data transfer protocols. This means these apps are designed to work directly with pocket operators and can do stuff like play music in time, or transfer patches to and from the PO-33 or PO-32 devices.
 
 ## iPhone: Korg SyncKontrol
 
-Korg's SyncKontrol app outputs a sync signal designed for their Volca device, but you can also use it to drive a Pocket Operator.
+Korg's SyncKontrol app outputs a sync signal designed for their Volca device, but you can also use it to drive a pocket operator.
 
 [![Korg SyncKontrol app](img/content/korg-synckontrol.png)](https://apps.apple.com/us/app/korg-synckontrol-for-monotribe/id438617344)
 

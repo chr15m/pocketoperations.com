@@ -1,4 +1,8 @@
-## Which pocket operator should I buy?
+On the forums people often ask these questions about pocket operators. We're here to give you answers!
+
+## Which pocket operator to start with?
+
+A commonly asked question on the pocket operator forums, especially from beginners, is "which pocket operator should I get first?" and "which pocket operator should I buy for my boy/girlfriend?"
 
 Whether you're buying for yourself or a loved one, deciding on your first pocket operator can be tough. The consensus on the forums seems to be that the best pocket operator beginners and experienced musicians alike is the [PO-33 Knockout!](https://teenage.engineering/store/po-33). This is because it is a fully fledged sampler that fits in your pocket, so you can sample any source at all and them make music using that sound. This gives it incredible flexibility.
 

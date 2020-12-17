@@ -1,3 +1,5 @@
+A stand is a good way to set your pocket operator up more permanently in place. For example if you're using your pocket operator for studio recording or if you are playing a live show and you don't want the device sliding around. Let's face it the little metal stands are great but quit flimsy. A stand can give you a more solid backing.
+
 ## Plasmatorium plastic stand
 
 [Pocket operator stand PRO by Plasmatorium](https://www.etsy.com/listing/727586264/pocket-operator-stand-pro).
