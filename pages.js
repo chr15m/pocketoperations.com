@@ -6,7 +6,9 @@ m.dir("pages").forEach(function(pagefile) {
   const page = m.load("pages/" + pagefile);
   const body = t.$("body");
   const main = t.$("main");
-  const title = pagefile.replace(/\-/g, " ").replace(".md", "");
+  const title = pagefile.replace(/\-/g, " ")
+    .replace(".md", "")
+    .replace(/(^\w{1})|(\s+\w{1})/g, l => l.toUpperCase());
 
   t.$("title").textContent = title;
   t.$("h1").textContent = title;
