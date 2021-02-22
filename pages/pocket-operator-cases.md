@@ -1,3 +1,5 @@
+### Cases to keep your pocket operator device safe and looking good
+
 Pocket operators are the most portable music devices out there and so it's only natural that they get banged around a bit. If you want to protect your pocket operator from wear and tear there are a ton of options. This list is hand-selected from those that show up on the forums most frequently.
 
 ## Dich Studios Case

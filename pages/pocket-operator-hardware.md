@@ -1,4 +1,7 @@
+### Hardware and other devices you can use with your pocket operator
+
 If you're looking for hardware to augment your pocket operator's functionality you've come to the right place.
+You can use these devices to do more with your pocket operator, get more interesting sounds, and work more efficiently.
 
 ## p0k3t0's Sync Splitters for Pocket Operator
 

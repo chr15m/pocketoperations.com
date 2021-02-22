@@ -1,3 +1,5 @@
+### Apps and software to use with pocket operator devices by Teenage Engineering
+
 If you're looking for apps that play nicely with pocket operator devices you've come to the right place. This is a small but growing collection of apps that specifically support the PO sync or data transfer protocols. This means these apps are designed to work directly with pocket operators and can do stuff like play music in time, or transfer patches to and from the PO-33 or PO-32 devices.
 
 ## Android: PO LoopSync

@@ -1,3 +1,5 @@
+### Frequently asked questions and answers about the pocket operator devices by Teenage Engineering
+
 On the forums people often ask these questions about pocket operators. We're here to give you answers!
 
 ## Which pocket operator to start with?

@@ -1,3 +1,5 @@
+### Sample packs and loadable patches to add new sounds to your pocket operator device
+
 One of the best ways to get more life out of your PO-33 or PO-32 is to update the available sounds. You can do this by adding samples or uploading "patches" using the transfer protocol from another device such as your phone or laptop. Here you can find a bunch of different samples and patches which you can add to your pocket operator to make brand new sounds. Have fun!
 
 ## TE

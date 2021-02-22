@@ -3,7 +3,7 @@ m = require('motionless');
 t = m.dom(m.load("index.html"));
 
 m.dir("pages").forEach(function(pagefile) {
-  const page = m.load("pages/" + pagefile);
+  const lines = m.load("pages/" + pagefile).split("\n");
   const body = t.$("body");
   const main = t.$("main");
   const title = pagefile.replace(/\-/g, " ")
@@ -12,7 +12,14 @@ m.dir("pages").forEach(function(pagefile) {
 
   t.$("title").textContent = title;
   t.$("h1").textContent = title;
-  body.className = "page";
+
+  const [description, page] = extract_description(lines, title);
+
+  t.$("meta[name=description]").setAttribute("content", description);
+  t.$("meta[name='twitter:description']").setAttribute("content", description);
+  t.$("meta[property='og:description']").setAttribute("content", description);
+
+  body.className = "page";  
   main.innerHTML = m.md(page);
   // build the table of contents
   // get a list of the h2 headers in the page
@@ -36,3 +43,19 @@ m.dir("pages").forEach(function(pagefile) {
   // write it back to the html file
   m.save(pagefile.replace(".md", ".html"), t.render());
 });
+
+function extract_description(lines, title) {
+  // meta description
+  if (lines[0].indexOf("###") == "0") {
+    return [
+      lines[0].replace("### ", ""),
+      lines.slice(1).join("\n"),
+    ];
+  } else {
+    return [
+      title,
+      lines.join("\n"),
+    ];
+  }
+
+}
