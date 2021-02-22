@@ -1,15 +1,5 @@
 If you're looking for apps that play nicely with pocket operator devices you've come to the right place. This is a small but growing collection of apps that specifically support the PO sync or data transfer protocols. This means these apps are designed to work directly with pocket operators and can do stuff like play music in time, or transfer patches to and from the PO-33 or PO-32 devices.
 
-## iPhone: Korg SyncKontrol
-
-Korg's SyncKontrol app outputs a sync signal designed for their Volca device, but you can also use it to drive a pocket operator.
-
-[![Korg SyncKontrol app](img/content/korg-synckontrol.png)](https://apps.apple.com/us/app/korg-synckontrol-for-monotribe/id438617344)
-
-<a href="https://apps.apple.com/us/app/korg-synckontrol-for-monotribe/id438617344">
-  <img src="img/content/app-link-apple.svg" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;" class="button">
-</a>
-
 ## Android: PO LoopSync
 
 PO LoopSync is an Android app you can use to play looped samples, like drum beats or synth lines, and it outputs a pocket operator compatible sync signal. So you can plug it into your pocket operator and the loops will play in time with your device.
@@ -28,6 +18,16 @@ BeatGenerator makes procedurally generated boom bap style beats. It has a pocket
 
 <a href='https://play.google.com/store/apps/details?id=cx.mccormick.canofbeats&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
   <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' class="button"/>
+</a>
+
+## iPhone: Korg SyncKontrol
+
+Korg's SyncKontrol app outputs a sync signal designed for their Volca device, but you can also use it to drive a pocket operator.
+
+[![Korg SyncKontrol app](img/content/korg-synckontrol.png)](https://apps.apple.com/us/app/korg-synckontrol-for-monotribe/id438617344)
+
+<a href="https://apps.apple.com/us/app/korg-synckontrol-for-monotribe/id438617344">
+  <img src="img/content/app-link-apple.svg" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;" class="button">
 </a>
 
 ## Web app: PO-33 sample loader
