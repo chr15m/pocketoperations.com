@@ -1,6 +1,13 @@
-m = require('motionless');
+const m = require('motionless');
 
-t = m.dom(m.load("index.html"));
+const t = m.dom(m.load("index.html"));
+
+const navlinks = ["cases", "apps", "cheatsheets", "samples-and-patches", "tutorials"];
+
+// add the nav section
+t.$("header").after(
+  t.h("nav", {},
+    navlinks.map(l=>t.h("a", {"href": "/pocket-operator-" + l + ".html"}, l.split("-")[0].replace(/^\w/, c=>c.toUpperCase())))));
 
 m.dir("pages").forEach(function(pagefile) {
   const lines = m.load("pages/" + pagefile).split("\n");
@@ -41,6 +48,7 @@ m.dir("pages").forEach(function(pagefile) {
     p.after(toc);
     p.after(t.h("h2", {}, "Contents"));
   }
+
   // write it back to the html file
   m.save(pagefile.replace(".md", ".html"), t.render());
 });

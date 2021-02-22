@@ -7,6 +7,18 @@ body {
   line-height: 1.5em;
 }
 
+nav {
+  text-align: center;
+  background-color: yellow;
+  margin: 2em 0px;
+}
+
+nav a {
+  padding: 0.25em 1em;
+  margin: 0.5em;
+  display: inline-block;
+}
+
 h1 {
   font-weight: bold;
   margin: 0px;
@@ -15,7 +27,7 @@ h1 {
   color: #444;
 }
 
-p a, ul a, footer a {
+p a, ul a, footer a, nav a {
   background-color: yellow;
   color: black;
   padding: 0.25em 0.125em;
