@@ -40,3 +40,7 @@ Now the BPM of your pocket operator will be driven by the external device. Have 
 ## Setting the pocket operator volume
 
 Setting the volume on your pocket operator device is not obvious. What you have to do is hold down the BPM button and then press one any of the numbered buttons from 1 to 16. This will set the volume to whichever button you press, with 1 being the lowest volume and 16 being the highest.
+
+## How to turn off your pocket operator
+
+Short of taking out the batteries, you can't actually turn your pocket operator off completely. If you leave your pocket operator alone for five minutes without pressing any buttons it will automatically go into low power mode. In this mode all patterns and settings are saved and the LCD stays visible on standby.
