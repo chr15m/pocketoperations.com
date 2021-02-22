@@ -18,6 +18,7 @@ m.dir("pages").forEach(function(pagefile) {
   t.$("meta[name=description]").setAttribute("content", description);
   t.$("meta[name='twitter:description']").setAttribute("content", description);
   t.$("meta[property='og:description']").setAttribute("content", description);
+  t.$("meta[property='og:url']").setAttribute("content", "https://pocketoperations.com/" + pagefile.replace(".md", ""));
 
   body.className = "page";  
   main.innerHTML = m.md(page);
