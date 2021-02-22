@@ -1,6 +1,6 @@
 ### Frequently asked questions and answers about the pocket operator devices by Teenage Engineering
 
-On the forums people often ask these questions about pocket operators. We're here to give you answers!
+On the forums people often ask these questions about pocket operators. We're here to give you answers! You can find answers to questions about which pocket operator is best to start with and sync between your pocket operator and other devices and apps.
 
 ## Which pocket operator to start with?
 
@@ -19,3 +19,20 @@ The next most recommended pocket operators include the [PO-24 office](https://te
 You can sync your pocket operator with other pocket operators, and with a variety of other devices such as Korg's Volca devices. [Some music making apps also sync with pocket operators](/pocket-operator-apps.html). The way this works is by plugging a cable with 3.5mm stereo jacks between the devices and then putting the pocket operator into sync mode. You can [buy compatible sync cables from Teenage Engineering](https://teenage.engineering/store/audio-cable-kit-150mm-x3/) but any 3.5mm stereo to stereo cable will work and you can get them everywhere.
 
 There is a [good instructional on the TE site on how to sync between pocket operators](https://support.teenage.engineering/hc/en-us/articles/360001346214-how-do-i-synchronize-my-pocket-operator-). If you're syncing from an app on your phone you simply plug the cable from the heaphone jack into the left side of the pocket operator and put the pocket operator in SY4 or SY5 mode.
+
+## Volca pocket operator sync
+
+You can sync your Volca or other compatible device or app to your pocket operator by following these simple steps.
+
+ 1. First you will need a common TRS stereo cable with 3.5mm headphone connectors on both ends. These cables are very common and you can buy them everywhere. They look like this:
+
+![3.5mm TRS stereo male to male cable](img/content/stereo-cable.png)
+
+ 2. Plug one end of the cable into the sync-out of your Volca device.
+ 3. Plug the other end of the cable into the jack on the left side of your pocket operator.
+ 4. You might hear the sync click coming from your pocket operator now.
+ 5. Hold down the top-right button and press the BPM button until you see the sync mode "SY2" appear on the pocket operator screen.
+
+Now the BPM of your pocket operator will be driven by the external device. Have fun!
+
+<div class="video-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/Wunz6TUoVuU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
