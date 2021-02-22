@@ -36,3 +36,7 @@ You can sync your Volca or other compatible device or app to your pocket operato
 Now the BPM of your pocket operator will be driven by the external device. Have fun!
 
 <div class="video-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/Wunz6TUoVuU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+## Setting the pocket operator volume
+
+Setting the volume on your pocket operator device is not obvious. What you have to do is hold down the BPM button and then press one any of the numbered buttons from 1 to 16. This will set the volume to whichever button you press, with 1 being the lowest volume and 16 being the highest.
