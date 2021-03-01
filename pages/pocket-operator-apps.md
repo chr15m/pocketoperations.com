@@ -4,7 +4,7 @@ If you're looking for apps that play nicely with pocket operator devices you've 
 
 ## Android: PO LoopSync
 
-PO LoopSync is an Android app you can use to play looped samples, like drum beats or synth lines, and it outputs a pocket operator compatible sync signal. So you can plug it into your pocket operator and the loops will play in time with your device.
+PO LoopSync is an Android music app that plays looping samples in sync with your pocket operator. You can add drum beats, synth lines, or any other kind of loop and it outputs a pocket operator compatible sync signal in time. So you can plug it into your pocket operator and the loops will play in time with your device.
 
 [![PO LoopSync android app with pocket operator sync](img/content/po-loopsync.png)](https://play.google.com/store/apps/details?id=cx.mccormick.poloopsync)
 
