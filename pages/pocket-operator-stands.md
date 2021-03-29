@@ -18,5 +18,7 @@ A stand is a good way to set your pocket operator up more permanently in place. 
 
 [HomeStudioStuff has several stands of different sizes](https://www.etsy.com/shop/HomeStudioStuff?listing_id=881438726&search_query=pocket+operator).
 
+Check out [homestudiostuff.com](https://homestudiostuff.com) for more home studio stuff.
+
 [![HomeStudioStuff pocket operator stands](img/content/homestudiostuff-pocket-operator-stands.png)](https://www.etsy.com/shop/HomeStudioStuff?listing_id=881438726&search_query=pocket+operator)
 
