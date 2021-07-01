@@ -11,3 +11,13 @@ The p0k3t0 splitter fixes the problems caused by chaining multiple pocket operat
 
 ![Two Pocket Operator Sync splitters](img/content/splitter_v2_black.jpg)
 
+## Hanz Tech MIDI adapter
+
+This is an adapter for all 3 generations of Pocket Operators which makes them controllable via MIDI. There are pogo pins on the board which make direct contact with the exposed button pads on the PO to simulate buttons presses by switching the current on and off.
+
+[Buy it at Tindie](https://www.tindie.com/products/hanztech/pocket-operator-midi-adapter-v2/). Get the [source code on GitHub](https://github.com/Hanz-Tech).
+
+![Hanz Tech pocket operator MIDI adapter](img/content/hanz-tech-midi-adapter.jpg)
+
+<div class="video-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/fG9rOFwKDS0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
