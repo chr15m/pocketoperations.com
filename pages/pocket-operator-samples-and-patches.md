@@ -26,6 +26,8 @@ Tobias Von Hofsten's Basic Beats #2. You need to put your PO into receive mode t
 
 Cuckoo has a [PO-33 retro samples pack you can buy](https://gumroad.com/cuckoo?sort=newest#xslvS).
 
+[![Cuckoo's PO-33 Mega Knockout retro pack](img/content/cuckoo-ko-sample-pack.jpg)](https://cuckoo.gumroad.com/#xslvS)
+
 ## Punky V's PO-33 packs
 
  * [Punky V's sample packs YouTube playlist](https://punkyv4n.me/po-33-sample-packs)
