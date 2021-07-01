@@ -20,6 +20,12 @@ Teenage Engineering sell their [own line of pocket operator cases](https://teena
 
 [![Teenage Engineering silicon pocket operator case](img/content/teenage-engineering-pocket-operator-silicon-case.png)](https://teenage.engineering/store/ca-x/)
 
+## KleingedrucktDesign case
+
+KleingedrucktDesign have this 3D Print PO case out in red, white, and blue combinations.
+
+[![KleingedrucktDesign case](img/content/KleingedrucktDesign.jpg)](https://www.etsy.com/de/listing/997010986/pocket-operator-case-teenage-engineering?ref=shop_home_feat_4)
+
 ## Spillerphoto Cases
 
 Over at [spillerphoto.com](https://spillerphoto.com/) they are selling a [bunch of different 3D printed cases for pocket operators](https://spillerphoto.com/product-category/te_pocket_operators/) referencing a vintage synth/drum machine style with a choice of hard or soft buttons and colors.
