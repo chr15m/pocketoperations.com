@@ -14,6 +14,10 @@ If the person you are buying for is into chiptune or retro games then they will 
 
 The next most recommended pocket operators include the [PO-24 office](https://teenage.engineering/store/po-24/), [PO-28 robot](https://teenage.engineering/store/po-28/), and the [PO-16 factory](https://teenage.engineering/store/po-16/) which each have their own specialty sounds.
 
+Here's a great video by Liam Killen covering all of the pocket operators.
+
+<div class="video-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/alj5_SxRPYU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 ## How do I sync my pocket operator?
 
 You can sync your pocket operator with other pocket operators, and with a variety of other devices such as Korg's Volca devices. [Some music making apps also sync with pocket operators](/pocket-operator-apps.html). The way this works is by plugging a cable with 3.5mm stereo jacks between the devices and then putting the pocket operator into sync mode. You can [buy compatible sync cables from Teenage Engineering](https://teenage.engineering/store/audio-cable-kit-150mm-x3/) but any 3.5mm stereo to stereo cable will work and you can get them everywhere.
