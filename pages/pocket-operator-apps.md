@@ -6,19 +6,19 @@ If you're looking for apps that play nicely with pocket operator devices you've 
 
 PO LoopSync is an Android music app that plays looping samples in sync with your pocket operator. You can add drum beats, synth lines, or any other kind of loop and it outputs a pocket operator compatible sync signal in time. So you can plug it into your pocket operator and the loops will play in time with your device.
 
-[![PO LoopSync android app with pocket operator sync](img/content/po-loopsync.png)](https://play.google.com/store/apps/details?id=cx.mccormick.poloopsync?utm_source=pocketoperations)
+[![PO LoopSync android app with pocket operator sync](img/content/po-loopsync.png)](https://play.google.com/store/apps/details?id=cx.mccormick.poloopsync&utm_source=pocketoperations)
 
-<a href='https://play.google.com/store/apps/details?id=cx.mccormick.poloopsync?utm_source=pocketoperations'>
+<a href='https://play.google.com/store/apps/details?id=cx.mccormick.poloopsync&utm_source=pocketoperations'>
   <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' class="button"/>
 </a>
 
-## Android: BeatGenerator 
+## Android: BeatGenerator
 
 BeatGenerator makes procedurally generated boom bap style beats. It has a pocket operator sync mode which means you can run it into your pocket operator and the beats will play in time.
 
-[![BeatGenerator android app with pocket operator sync](img/content/beat-generator-app-screenshot.png)](https://play.google.com/store/apps/details?id=cx.mccormick.canofbeats?utm_source=pocketoperations)
+[![BeatGenerator android app with pocket operator sync](img/content/beat-generator-app-screenshot.png)](https://play.google.com/store/apps/details?id=cx.mccormick.canofbeats&utm_source=pocketoperations)
 
-<a href='https://play.google.com/store/apps/details?id=cx.mccormick.canofbeats?utm_source=pocketoperations'>
+<a href='https://play.google.com/store/apps/details?id=cx.mccormick.canofbeats&utm_source=pocketoperations'>
   <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' class="button"/>
 </a>
 
