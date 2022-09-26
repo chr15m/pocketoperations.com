@@ -2,6 +2,8 @@
 
 Pocket operators have exceptionally minimal interfaces and so it can get a bit confusing knowing which button to press when. This collection of cheatsheets should help you stay on top of the various possible button combinations that are available for each PO.
 
+Want to add your resource? [Email me]().
+
 ## PO-33 cheatsheet
 
 This PO-33 cheatsheet is by [/u/alexwasashrimp](https://reddit.com/u/alexwasashrimp) and [the site also lists some other resources](https://alexwasashrimp.space/index.php/2020/10/20/po-33-cheat-sheet-and-resources/).
@@ -13,6 +15,12 @@ This PO-33 cheatsheet is by [/u/alexwasashrimp](https://reddit.com/u/alexwasashr
 This is a drawing of the available [scales on the PO-33 from a Reddit post](https://www.reddit.com/r/pocketoperators/comments/9v38e8/a_diagram_of_available_scales_on_the_po33_ko_and/).
 
 [![PO-33 scales diagram](img/content/po-33-scales-drawing.jpg)](img/content/po-33-scales-drawing.jpg)
+
+## PO-33 jungle drum loop cheat sheet
+
+This amen break cheat sheet for the PO-33 is by [stevemusicanderson](https://www.reddit.com/r/pocketoperators/comments/uercms/found_a_great_drum_and_bassjungleamen_break/) based on a [youtube video by rodrigomacias](https://youtu.be/7FIECtLYI6o).
+
+[![PO-33 jungle loop cheat sheet](img/content/po-33-jungle-drum-loop-cheatsheet.jpg)](img/content/po-33-jungle-drum-loop-cheatsheet.jpg)
 
 ## PO-33 guides (A4 Printable)
 
