@@ -93,6 +93,7 @@ h2 > a {
   text-transform: uppercase;
   text-decoration: none;
   color: #333;
+  display: block;
 }
 
 h2 .pilcrow {
