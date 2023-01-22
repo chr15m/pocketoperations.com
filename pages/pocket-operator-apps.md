@@ -2,6 +2,18 @@
 
 If you're looking for apps that play nicely with pocket operator devices you've come to the right place. This is a small but growing collection of apps that specifically support the PO sync or data transfer protocols. This means these apps are designed to work directly with pocket operators and can do stuff like play music in time, or transfer patches to and from the PO-33 or PO-32 devices.
 
+## Android & iPhone: PO Sync
+
+PO Sync is a simple app to sync your pocket operator devices. It outputs a sync signal to drive your device.
+
+<a href="https://apps.apple.com/us/app/po-sync/id1664995967?itsct=apps_box_badge&itscg=30200&ct=pocketoperations">
+  <img src="img/content/app-link-apple.svg" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;" class="button">
+</a>
+
+<a href='https://play.google.com/store/apps/details?id=cx.mccormick.pocketsync&utm_source=pocketoperations'>
+  <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' class="button"/>
+</a>
+
 ## Android: PO LoopSync
 
 PO LoopSync is an Android music app that plays looping samples in sync with your pocket operator. You can add drum beats, synth lines, or any other kind of loop and it outputs a pocket operator compatible sync signal in time. So you can plug it into your pocket operator and the loops will play in time with your device.
