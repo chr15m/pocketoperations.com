@@ -6,6 +6,8 @@ If you're looking for apps that play nicely with pocket operator devices you've 
 
 PO Sync is a simple app to sync your pocket operator devices. It outputs a sync signal to drive your device.
 
+![PO Sync iPhone and Android pocket operator sync app](img/content/po-sync.png)
+
 <a href="https://apps.apple.com/us/app/po-sync/id1664995967?itsct=apps_box_badge&itscg=30200&ct=pocketoperations">
   <img src="img/content/app-link-apple.svg" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;" class="button">
 </a>
