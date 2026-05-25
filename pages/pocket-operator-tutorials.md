@@ -2,11 +2,13 @@
 
 If you want to learn how to use your pocket operator more effectively these are some tutorials, lessons, and other educational resources that can help you bone up.
 
+<!--
 ## Callum Howkin's Complete PO-33 K.O Guide
 
 You can find Callum Howkin's [excellent PO-33 guide online here](https://medium.com/callumhowkins/the-complete-teenage-engineering-po33-k-o-guide-89d5e2fd6a2a).
 
 [![Callum Howkins PO-33](img/content/callum-howkins-tutorial-po-33.jpg)](https://medium.com/callumhowkins/the-complete-teenage-engineering-po33-k-o-guide-89d5e2fd6a2a)
+-->
 
 ## Official
 
@@ -14,9 +16,9 @@ Teenage Engineering have their own set of [online lessons for the pocket operato
 
 [![Pocket Operator lessons and tutorials](img/content/po-online-lessons.png)](https://teenage.engineering/ems#lessons)
 
-## Pocket Operator drum patterns
+## Pocket Operator drum patterns (Free PDF Booklet)
 
-Paul from [shittyrecording.studio is selling a book full of drum machine patterns for pocket operators](https://shittyrecording.studio/).
+Paul from [shittyrecording.studio](https://shittyrecording.studio/) is selling a gorgeous step-sequencer pattern guide called **Pocket Operations**. To support the community and promote learning, they have also made [a free, direct-download printable PDF booklet](https://shittyrecording.studio/assets/pdf/Pocket_Operations-Revision_3.1_Booklet.pdf) available so you can print, fold, and staple/bind your own miniature copy at home. It simplifies drum programming for the pocket operator across rock, techno, hip-hop, house, and breakbeats.
 
 ## PO-33 Custom Drum-Kit Tutorial
 

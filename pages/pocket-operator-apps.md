@@ -52,11 +52,13 @@ This [sample loader web app for the PO-33](https://rileyjshaw.com/po-33/) plays 
 
 [![PO-33 sample loader web app](img/content/po-33-sample-loader-webapp.png)](https://rileyjshaw.com/po-33/)
 
+<!--
 ## Web app: PO-33 scale app
 
 Punkyvan's [PO-33 scale app](https://punkyv4n.me/po-33-scale-app/) helps you figure out how to transpose samples into the key you want.
 
 [![PO-33 scale webapp](img/content/po-33-scale-webapp.png)](https://punkyv4n.me/po-33-scale-app/)
+-->
 
 ## Web app: Patch sharing app
 

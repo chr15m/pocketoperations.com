@@ -26,11 +26,13 @@ KleingedrucktDesign have this 3D Print PO case out in red, white, and blue combi
 
 [![KleingedrucktDesign case](img/content/KleingedrucktDesign.jpg)](https://www.etsy.com/de/listing/997010986/pocket-operator-case-teenage-engineering?ref=shop_home_feat_4)
 
+<!--
 ## Spillerphoto Cases
 
 Over at [spillerphoto.com](https://spillerphoto.com/) they are selling a [bunch of different 3D printed cases for pocket operators](https://spillerphoto.com/product-category/te_pocket_operators/) referencing a vintage synth/drum machine style with a choice of hard or soft buttons and colors.
 
 [![Spiller POC60 case](img/content/spiller-case.jpg)](https://spillerphoto.com/product-category/te_pocket_operators/)
+-->
 
 ## Perkflood Clear Case
 
@@ -68,10 +70,6 @@ This budget-friendly [EVA zippered hard case from AliExpress](http://aliexpress.
 
 [![AliExpress pocket operator hard case](img/content/aliexpress-hard-case.jpg)](http://aliexpress.com/item/1005007152572710.html)
 
-## Case mega-thread on Reddit
-
-There's also a [pocket operator case mega-thread on Reddit](https://www.reddit.com/r/pocketoperators/comments/6l3utu/always_use_protection_case_megathread/) with a bunch of different case options. Check it out if you want to see even more options.
-
 ## TE Cases by marquina640
 
 Custom 3D printed cases designed by `/u/marquina640` (available at Etsy shop [TEcases.etsy.com](https://TEcases.etsy.com) and Instagram `@te_cases`). They offer a gorgeous travel carrying case that fits up to three Pocket Operators (even with some cases still on them), complete with dedicated chambers for spare batteries and patch cables so you can travel without worrying about breaking your front hangers. They also offer single slim cases with battery protection, and modular desktop stands.
@@ -83,3 +81,21 @@ Custom 3D printed cases designed by `/u/marquina640` (available at Etsy shop [TE
 Designed by community member `/u/_and_and` and shared on Printables, this sleek, two-screw 3D printable case utilizes cap-and-stem buttons to lock your device rigid and completely rattle-free. It features generous side clearances for headphone cables and a solid, protective shell that keeps your PO secure during everyday travel.
 
 [![_and_and 3D printed PO case](img/content/and-and-po-case.jpg)](https://www.printables.com/model/1214582-teenage-engineering-pocket-operator-case)
+
+<!--
+## Modular Thing Case
+
+Designed by community member `/u/OrdinarySuccess7986` (available on his [eBay shop](https://www.ebay.com/itm/267197461199)), these custom 3D-printed hardshell cases are specifically engineered for maximum rigidity. They lock your device secure and play perfectly with their companion modular desk docks, allowing you to slide them in and out seamlessly without ever needing to remove your POs from their individual cases.
+
+[![Modular Thing Case](img/content/modular-thing-stand.jpg)](https://www.ebay.com/itm/267197461199)
+-->
+
+## iPhone 4 Cases Hack
+
+Here's an incredible budget-friendly DIY tip discovered by community member `/u/iMosu`: old silicone and hardshell cases designed for the iPhone 4 fit the Pocket Operator almost perfectly! You will just need to make a small cutout on the right side for the audio output jack (the iPhone's top lock-switch aligns perfectly with the PO's input jack) and place a thin spacer (like a GameBoy cartridge or eraser block) under the lower rear to level out the battery gap.
+
+[![iPhone 4 case PO protection hack](img/content/teenage_engineering_po_33_ko_pocket_operator.jpg)](https://reddit.com/r/pocketoperators/comments/jq26iq/pocket_operator_fits_in_iphone_4_case/)
+
+## Case mega-thread on Reddit
+
+There's also a [pocket operator case mega-thread on Reddit](https://www.reddit.com/r/pocketoperators/comments/6l3utu/always_use_protection_case_megathread/) with a bunch of different case options. Check it out if you want to see even more options.

@@ -49,6 +49,10 @@ Setting the volume on your pocket operator device is not obvious. What you have 
 
 Short of taking out the batteries, you can't actually turn your pocket operator off completely. If you leave your pocket operator alone for five minutes without pressing any buttons it will automatically go into low power mode. In this mode all patterns and settings are saved and the LCD stays visible on standby.
 
+## How do I check the battery level on a pocket operator?
+
+To check the current battery level percentage on your pocket operator, hold down the **Sound** button (the top-right button, right below the screen, depending on the model, e.g. the **Sound** button on the PO-33, PO-35, PO-20) and then press the **BPM** button. The LCD screen will flash the current battery charge percentage (such as `99` for 99%, or `b99` on some models).
+
 ## How do I fix a button that stops working?
 
 If one or more buttons on your pocket operator have stopped triggering, it is usually because dust or debris has accumulated between the silicone carbon contacts and the gold-plated contact pads on the PCB surface. 

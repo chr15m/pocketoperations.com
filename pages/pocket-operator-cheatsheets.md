@@ -4,11 +4,18 @@ Pocket operators have exceptionally minimal interfaces and so it can get a bit c
 
 Want to add your resource? [Email me]().
 
+## Official guides
+
+* [Official guides for every pocket operator](https://teenage.engineering/guides)
+* [Official lessons](https://teenage.engineering/ems#lessons)
+
+<!--
 ## PO-33 cheatsheet
 
 This PO-33 cheatsheet is by [/u/alexwasashrimp](https://reddit.com/u/alexwasashrimp) and [the site also lists some other resources](https://alexwasashrimp.space/index.php/2020/10/20/po-33-cheat-sheet-and-resources/).
 
 [![PO-33 cheatsheet by alexwasashrimp](img/content/PO-33-cheat-sheet-680x1024.png)](img/content/PO-33-cheat-sheet-680x1024.png)
+-->
 
 ## PO-33 scales diagram
 
@@ -67,11 +74,6 @@ This extremely useful [Google Sheets compilation by /u/andiam03](https://docs.go
 This is [a spreadsheet containing every pocket operator and all of their button combinations](https://docs.google.com/spreadsheets/d/13T3AdhtiYx6TmdW71KpoU7DN1YiaeeJwFbNhjGlpT30/htmlview#).
 
 [![Thumbnail of a spreadsheet containing every pocket operator button combination](img/content/spreadsheet-button-cheatsheet.png)](https://docs.google.com/spreadsheets/d/13T3AdhtiYx6TmdW71KpoU7DN1YiaeeJwFbNhjGlpT30/htmlview)
-
-## Official guides
-
-* [Official guides for every pocket operator](https://teenage.engineering/guides)
-* [Official lessons](https://teenage.engineering/ems#lessons)
 
 ## PO-12 Rhythm hand-drawn cheatsheet
 

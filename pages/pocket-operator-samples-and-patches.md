@@ -28,10 +28,12 @@ Cuckoo has a [PO-33 retro samples pack you can buy](https://gumroad.com/cuckoo?s
 
 [![Cuckoo's PO-33 Mega Knockout retro pack](img/content/cuckoo-ko-sample-pack.jpg)](https://cuckoo.gumroad.com/#xslvS)
 
+<!--
 ## Punky V's PO-33 packs
 
  * [Punky V's sample packs YouTube playlist](https://punkyv4n.me/po-33-sample-packs)
  * [Punky V's drum kits YouTube playlist](https://punkyv4n.me/po-33-drum-kits)
+-->
 
 ## Notion samples database
 
@@ -44,4 +46,3 @@ This [mega playlist on YouTube has a ton of different PO-33 sample packs](https:
 ## Dedicated patch forum
 
 Check out [/r/PocketOperatorPatches/](https://www.reddit.com/r/PocketOperatorPatches/) which is a forum specifically dedicated to sharing patches and sample packs.
-
