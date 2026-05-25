@@ -35,6 +35,10 @@ The most common and popular posts on /r/pocketoperators are video or audio perfo
 
 Instead, look for "diamonds in the rough": text posts, discussions, or links that share actual resources, tools, guides, 3D models, or hardware.
 
+## Quality over Quantity (Meta-Instruction)
+
+There is **no requirement** to make additions during a run. We strongly prefer high-quality, highly-vetted, and unique additions over filler content. If the existing pages already well-represent the best resources available, or if no new high-quality "diamonds in the rough" are found in the fetched posts, do not add anything. It is perfectly acceptable to update zero pages and report that no new high-quality additions were found.
+
 ## Guidelines for Selection
 
 We are looking for high-quality, community-approved additions for these specific pages:
@@ -61,6 +65,7 @@ When updating a page, you MUST match its existing layout pattern exactly. Here a
    - Header format: `## [Name of Case]`
    - Description paragraph(s).
    - Image link format: `[![Alt text](img/content/image.jpg)](Link)`
+   - **Crucial**: The "Case mega-thread on Reddit" section MUST always remain at the very bottom of this page. When adding new cases, insert them *above* the "Case mega-thread on Reddit" section, rather than blindly appending to the end of the file.
 
 3. **pocket-operator-stands.md**:
    - Header format: `## [Name of Stand]`
@@ -71,6 +76,7 @@ When updating a page, you MUST match its existing layout pattern exactly. Here a
    - Header format: `## [Name of Cheatsheet]`
    - Description paragraph(s).
    - Image link format: `[![Alt text](img/content/image.jpg)](Link)`
+   - **Crucial**: The "Official guides" section MUST always remain at the very top of this page (right under the intro paragraph/email link). When adding new cheatsheets, insert them *below* the "Official guides" section, rather than at the very top or blindly appending to the end of the file.
 
 5. **pocket-operator-hardware.md**:
    - Header format: `## [Name of Hardware]`
