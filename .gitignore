@@ -1,3 +1,6 @@
 .*.swp
+.aider*
+__pycache__
 node_modules
+pnpm-lock.yaml
 pocket-operator*.html
