@@ -21,3 +21,18 @@ This is an adapter for all 3 generations of Pocket Operators which makes them co
 
 <div class="video-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/fG9rOFwKDS0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
+## PortaParty Mixer
+
+The PortaParty is a pocket-sized, battery-powered 4-channel active stereo mixer designed specifically for portable music gear such as pocket operators and other mini synths. It lets you mix down audio from multiple sources on the go and offers smooth volume controls.
+
+[Buy it at Freedom Enterprise](https://www.freedomenterprise.net/porta-party.html).
+
+![PortaParty portable synthesizer mixer](img/content/porta-party.jpg)
+
+<div class="video-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/s9ajLmigmT8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+## PO-33 Guitar Pedal Mod
+
+Standard Pocket Operators aren't semi-modular, but that didn't stop `/u/WorkingLetterhead` from creating the ultimate hands-free gig mod. This custom-built physical guitar pedal features four sturdy stompswitches and an external patch bay routing grid. By running connections to the PO-33's physical button pads, guitarist-operators can patch any stompswitch to any button (like play, record, or specific drum/pattern trigger pins) to loop guitar riffs, trigger samples, and play beats on the fly while leaving their hands free to play guitar.
+
+![PO-33 Guitar Pedal custom hardware mod](img/content/po33-guitar-pedal-hardware.jpg)

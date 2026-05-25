@@ -62,7 +62,24 @@ This [case from /u/tobocirej is a 3d printed round rough case](https://www.reddi
 
 [![3d printed round case](img/content/3d-printed-rough-case.jpg)](https://www.thingiverse.com/thing:1375818)
 
+## AliExpress Hard Case
+
+This budget-friendly [EVA zippered hard case from AliExpress](http://aliexpress.com/item/1005007152572710.html) is highly popular for protecting pocket operators. Recommended by community member /u/Manuellino, it fits the device perfectly without having to snap off the top hanging tab. He also created a [custom vinyl decal design template on Google Drive](https://drive.google.com/file/d/1dDKu2GoY5JY6V69rosd2cMoFBwmJvVR3/view?usp=sharing) so you can easily print and label your devices.
+
+[![AliExpress pocket operator hard case](img/content/aliexpress-hard-case.jpg)](http://aliexpress.com/item/1005007152572710.html)
+
 ## Case mega-thread on Reddit
 
 There's also a [pocket operator case mega-thread on Reddit](https://www.reddit.com/r/pocketoperators/comments/6l3utu/always_use_protection_case_megathread/) with a bunch of different case options. Check it out if you want to see even more options.
- 
+
+## TE Cases by marquina640
+
+Custom 3D printed cases designed by `/u/marquina640` (available at Etsy shop [TEcases.etsy.com](https://TEcases.etsy.com) and Instagram `@te_cases`). They offer a gorgeous travel carrying case that fits up to three Pocket Operators (even with some cases still on them), complete with dedicated chambers for spare batteries and patch cables so you can travel without worrying about breaking your front hangers. They also offer single slim cases with battery protection, and modular desktop stands.
+
+[![TE Cases 3-PO travel case](img/content/te-cases-3po.jpg)](https://TEcases.etsy.com)
+
+## 3D Printed _and_and Case
+
+Designed by community member `/u/_and_and` and shared on Printables, this sleek, two-screw 3D printable case utilizes cap-and-stem buttons to lock your device rigid and completely rattle-free. It features generous side clearances for headphone cables and a solid, protective shell that keeps your PO secure during everyday travel.
+
+[![_and_and 3D printed PO case](img/content/and-and-po-case.jpg)](https://www.printables.com/model/1214582-teenage-engineering-pocket-operator-case)

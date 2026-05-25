@@ -56,6 +56,12 @@ This other cheatsheet by /u/johnsherling [shows effects and sounds on the Aracad
 
 This [scale guide by /u/TheBanjoPrince can help you figure out scales on the PO-20](https://www.reddit.com/r/pocketoperators/comments/8ctdzv/po20_scale_guide/)
 
+## Famous drum breaks spreadsheet
+
+This extremely useful [Google Sheets compilation by /u/andiam03](https://docs.google.com/spreadsheets/d/1GMRWxEqcZGdBzJg52soeVaY7iUSj1YncfIJZIPScBhM/edit?usp=sharing) transcribes 13 famous, classic drum breaks (such as James Brown's "Funky Drummer," the Amen Break, and Michael Jackson's "Billie Jean") across rock, hip-hop, techno, house, and drum & bass. It simplifies the pattern sequences into an easy-to-copy button sheet that you can plug straight into your Pocket Operator or Woovebox.
+
+[![Famous drum breaks spreadsheet transcription](img/content/famous-drum-breaks-seq.png)](https://docs.google.com/spreadsheets/d/1GMRWxEqcZGdBzJg52soeVaY7iUSj1YncfIJZIPScBhM/edit?usp=sharing)
+
 ## Button cheat sheet spreadsheet
 
 This is [a spreadsheet containing every pocket operator and all of their button combinations](https://docs.google.com/spreadsheets/d/13T3AdhtiYx6TmdW71KpoU7DN1YiaeeJwFbNhjGlpT30/htmlview#).
@@ -67,3 +73,8 @@ This is [a spreadsheet containing every pocket operator and all of their button 
 * [Official guides for every pocket operator](https://teenage.engineering/guides)
 * [Official lessons](https://teenage.engineering/ems#lessons)
 
+## PO-12 Rhythm hand-drawn cheatsheet
+
+Reddit user `/u/DayTripper01` hand-drew this tiny, incredibly detailed PO-12 Rhythm reference guide that is small enough to fit right on the back of the device. It covers the button shortcuts, modes, and includes a handy layout of the FX grid.
+
+[![PO-12 Rhythm hand-drawn cheatsheet](img/content/po-12-rhythm-handdrawn-cheatsheet.jpg)](https://reddit.com/r/pocketoperators/comments/1k0ys2e/sketched_out_a_po12_guide_for_myself_today_thats/)

@@ -48,3 +48,17 @@ Setting the volume on your pocket operator device is not obvious. What you have 
 ## How to turn off your pocket operator
 
 Short of taking out the batteries, you can't actually turn your pocket operator off completely. If you leave your pocket operator alone for five minutes without pressing any buttons it will automatically go into low power mode. In this mode all patterns and settings are saved and the LCD stays visible on standby.
+
+## How do I fix a button that stops working?
+
+If one or more buttons on your pocket operator have stopped triggering, it is usually because dust or debris has accumulated between the silicone carbon contacts and the gold-plated contact pads on the PCB surface. 
+
+You can safely fix this yourself by following the [comprehensive iFixit guide on How to Fix the Buttons of a Pocket Operator](https://www.ifixit.com/Guide/How+to+Fix+the+Buttons+of+a+Pocket+Operator/141451). The guide walks you through carefully separating the screen and casing, and cleaning the contact pads with isopropyl alcohol and cotton swabs to restore perfect touch response.
+
+## What do I do if my pocket operator won't turn on after a short circuit?
+
+Carrying your Pocket Operator in a backpack alongside keys, coins, or other metallic objects can accidentally bridge the exposed contacts on its circuit board. This often leads to immediate battery drainage, short circuits, or a burnt component smell. If your PO has suddenly stopped turning on and you've verified the batteries are fresh and the terminal clips are tight, the main power trace on the board may have blown.
+
+A very popular DIY hardware repair in the community is to **solder a jumper wire connecting the left pin of the volume potentiometer to the positive (+) terminal of the bottom battery**. This bypasses the blown traces and has successfully revived many dead units.
+
+To prevent future short circuits, members of the community strongly recommend storing your devices in a hard shell case or even a cheap, robust plastic food container (like Tupperware) when traveling. It is also wise to remove your batteries if storing the device long-term.

@@ -17,3 +17,21 @@ Teenage Engineering have their own set of [online lessons for the pocket operato
 ## Pocket Operator drum patterns
 
 Paul from [shittyrecording.studio is selling a book full of drum machine patterns for pocket operators](https://shittyrecording.studio/).
+
+## PO-33 Custom Drum-Kit Tutorial
+
+This excellent [PO-33 Custom Drum-Kit Tutorial video by /u/Death_Rave_](https://youtu.be/mHOqxcJt9nw) walks you through the step-by-step process of creating, tuning, and slicing custom drum kits on your PO-33 Knockout sampler from any external source.
+
+<div class="video-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/mHOqxcJt9nw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+## Pocket Operator Notion Hub
+
+Tired of having dozens of browser tabs open while programming beats, Reddit user `/u/davilatwin1` created this comprehensive Notion wiki. It consolidates all official manuals, shortcut lists, drum templates, community tutorials, and other useful links into a single, clean workspace. Notion users can duplicate this page to customize, document their workflows, or add their own cheat sheets.
+
+[![Pocket Operator Notion Hub wiki landing page](img/content/pocket-operator-notion-hub.png)](https://jumpy-soldier-b07.notion.site/Pocket-Operators-78853bcc41804150a75045e081f56be7)
+
+## Big Umami's PO-33 KO Video Guide
+
+For those who prefer visual walk-throughs, `/u/BIGUMAMI` on YouTube provides some of the best step-by-step video guides for the PO-33. This tutorial breaks down the essential skills: sampling from external gear, pitch-shifting, slicing samples across the drum keys, and building full boom-bap / lofi sequence tracks with a very easy-to-follow visual workflow.
+
+<div class="video-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/RSxXFgntRvo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

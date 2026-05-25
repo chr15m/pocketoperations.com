@@ -69,3 +69,15 @@ Punkyvan's [PO-33 scale app](https://punkyv4n.me/po-33-scale-app/) helps you fig
 [poq is a web app that generates a sync signal for pocket operator devices](https://dopeloop.ai/poq).
 
 [![sync signal generator web app](img/content/poq-sync-signal-webapp.png)](https://dopeloop.ai/poq)
+
+## Playdate: DrumMachinePO
+
+[DrumMachinePO](https://signfang.itch.io/drummachinepo) is a 16-step sequencer app built specifically for the Panic Playdate console. It can send compatible click-sync signals to sync up and loop templates perfectly with any external pocket operator.
+
+[![DrumMachinePO for Playdate](img/content/drummachinepo.jpg)](https://signfang.itch.io/drummachinepo)
+
+## Web app: PO32 Synth
+
+The [PO32 Synth web app](https://po32-synth.pages.dev) is an open-source tool created by `u/Elegant_Arm_6152` that implements the PO-32 Tonic's synthesis and audio data transfer engine directly in your web browser. This allows you to sculpt your own custom drum sounds, tweak parameters, and trigger the audio-handshake transfer signal to load your custom kits onto your PO-32 device completely for free, without needing to purchase the proprietary $100 Sonic Charge Microtonic software.
+
+[![PO32 Synth web app](img/content/po-32-synth-webapp.png)](https://po32-synth.pages.dev)
