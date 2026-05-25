@@ -102,8 +102,11 @@ When updating a page, you MUST match its existing layout pattern exactly. Here a
 3. Call `reddit_list` to fetch "top" posts from "pocketoperators" with time window "year" and limit 50.
 4. Analyze the returned posts. Identify the 5-10 most valuable resources/threads that are NOT already in our existing content.
 5. For each selected post, call `reddit_comments` to fetch the comments (limit 50) to extract direct links, creator names, and community feedback.
-6. **Verify Links**: For every primary resource link you want to add, call `check_url` to verify it is online. If a link is offline (returns non-200, times out, or fails to resolve), **silently skip that item entirely** and do not add it to any page.
-7. **Download Images**: If a post has a valid image URL (e.g., from Reddit or an external site), call `download_image` to save it to `img/content/` using a clean, slugified filename. Check the `existing_images` list first to avoid overwriting existing files unless necessary. If an image download fails, skip the image markdown block entirely rather than leaving a broken placeholder.
+6. **Verify Links**: For every primary resource link you want to add, call `check_url` to verify it is online.
+   - If the link is completely offline (DNS failure, connection refused, 404, 500), **silently skip that item entirely** and do not add it to any page.
+   - If the link returns a `403 Forbidden` (common for platforms like Etsy, Instagram, or eBay that block scrapers but are known active sites), or if it is online, **do not skip it**. Add the item to the page.
+7. **Download Images**: If a post has a valid image URL (e.g., from Reddit or an external site), call `download_image` to save it to `img/content/` using a clean, slugified filename. Check the `existing_images` list first to avoid overwriting existing files unless necessary.
+   - If you add an item but cannot download its image (e.g., because the image download fails, or the platform blocks downloads, or it's a multi-image gallery), add the item to the page anyway (using a placeholder or skipping the image block) and add a clear follow-up item for the human to "download an image and save to X" with the source URLs.
 8. **Update Pages Directly**: Read the existing page content, append the new item(s) to the end of the appropriate `pages/*.md` file, and call `write_page` to save the updated page. Ensure you preserve the existing page structure, headers, and formatting.
 
 ## Output Format
